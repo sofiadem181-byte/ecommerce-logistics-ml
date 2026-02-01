@@ -288,12 +288,6 @@ from sklearn.metrics import confusion_matrix
 confusion_matrix(y_test, y_pred)
 
 
-# In[27]:
-
-
-y_pred = model.predict(X_test)
-
-
 # In[28]:
 
 
